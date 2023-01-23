@@ -10,4 +10,4 @@ Para iniciar la aplicación es necesario tener instalador NodeJS y seguir los si
 2. Ejecutar el comando `npm run dev` para inicializar a Vite y poder acceder al proyecto.
 
 ## **Notas**
-La aplicación esta disponible en el siguiente enlace: [https://cotizadorprestamosreactjs2023.netlify.app/]() 
+La aplicación esta disponible en el siguiente enlace: [disponible aqui](https://cotizadorprestamosreactjs2023.netlify.app/) 
